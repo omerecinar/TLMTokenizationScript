@@ -1,0 +1,251 @@
+{
+ "examples": [
+  {
+   "word": "ev",
+   "BERTurk": [
+    "ev"
+   ],
+   "mT5": [
+    "ev"
+   ],
+   "Kumru": [
+    "ev"
+   ],
+   "GPT-4o": [
+    "ev"
+   ],
+   "Zemberek": [
+    "ev"
+   ]
+  },
+  {
+   "word": "evler",
+   "BERTurk": [
+    "evler"
+   ],
+   "mT5": [
+    "▁",
+    "evler"
+   ],
+   "Kumru": [
+    "ev",
+    "ler"
+   ],
+   "GPT-4o": [
+    "ev",
+    "ler"
+   ],
+   "Zemberek": [
+    "ev",
+    "ler"
+   ]
+  },
+  {
+   "word": "evlerimiz",
+   "BERTurk": [
+    "evleri",
+    "mi",
+    "z"
+   ],
+   "mT5": [
+    "ev",
+    "lerimiz"
+   ],
+   "Kumru": [
+    "ev",
+    "lerimiz"
+   ],
+   "GPT-4o": [
+    "ev",
+    "ler",
+    "imiz"
+   ],
+   "Zemberek": [
+    "ev",
+    "ler",
+    "imiz"
+   ]
+  },
+  {
+   "word": "evlerimizden",
+   "BERTurk": [
+    "evleri",
+    "mi",
+    "z",
+    "den"
+   ],
+   "mT5": [
+    "ev",
+    "lerimizden"
+   ],
+   "Kumru": [
+    "ev",
+    "lerimiz",
+    "den"
+   ],
+   "GPT-4o": [
+    "ev",
+    "ler",
+    "imiz",
+    "den"
+   ],
+   "Zemberek": [
+    "ev",
+    "ler",
+    "imiz",
+    "den"
+   ]
+  },
+  {
+   "word": "gözlem",
+   "BERTurk": [
+    "gözlem"
+   ],
+   "mT5": [
+    "gözlem"
+   ],
+   "Kumru": [
+    "gözlem"
+   ],
+   "GPT-4o": [
+    "göz",
+    "lem"
+   ],
+   "Zemberek": [
+    "gözlem"
+   ]
+  },
+  {
+   "word": "gözlemleyebileceğimizi",
+   "BERTurk": [
+    "gözlem",
+    "leye",
+    "bileceği",
+    "mi",
+    "zi"
+   ],
+   "mT5": [
+    "gözlem",
+    "ley",
+    "ebileceği",
+    "mizi"
+   ],
+   "Kumru": [
+    "gözlem",
+    "ley",
+    "ebileceğimiz",
+    "i"
+   ],
+   "GPT-4o": [
+    "göz",
+    "lem",
+    "ley",
+    "eb",
+    "ilece",
+    "ğim",
+    "izi"
+   ],
+   "Zemberek": [
+    "gözlemle",
+    "yebil",
+    "eceğ",
+    "imiz",
+    "i"
+   ]
+  },
+  {
+   "word": "çalıştırılamayanlardan",
+   "BERTurk": [
+    "çalıştır",
+    "ıla",
+    "mayanlar",
+    "dan"
+   ],
+   "mT5": [
+    "çalıştır",
+    "ıl",
+    "a",
+    "mayan",
+    "lardan"
+   ],
+   "Kumru": [
+    "çalıştır",
+    "ılama",
+    "yan",
+    "lardan"
+   ],
+   "GPT-4o": [
+    "çalış",
+    "tır",
+    "ı",
+    "lam",
+    "ayan",
+    "lardan"
+   ],
+   "Zemberek": [
+    "çalış",
+    "tır",
+    "ıl",
+    "ama",
+    "yan",
+    "lar",
+    "dan"
+   ]
+  },
+  {
+   "word": "simülasyonlarla",
+   "BERTurk": [
+    "simülasyon",
+    "larla"
+   ],
+   "mT5": [
+    "sim",
+    "ül",
+    "asyonlar",
+    "la"
+   ],
+   "Kumru": [
+    "sim",
+    "ülasyon",
+    "larla"
+   ],
+   "GPT-4o": [
+    "sim",
+    "ül",
+    "asyon",
+    "larla"
+   ],
+   "Zemberek": [
+    "simülasyon",
+    "lar",
+    "la"
+   ]
+  },
+  {
+   "word": "Türkiye'nin",
+   "BERTurk": [
+    "Türkiye",
+    "'",
+    "nin"
+   ],
+   "mT5": [
+    "Türkiye",
+    "'",
+    "nin"
+   ],
+   "Kumru": [
+    "Türkiye",
+    "'",
+    "nin"
+   ],
+   "GPT-4o": [
+    "Türkiye",
+    "'nin"
+   ],
+   "Zemberek": [
+    "türkiye",
+    "nin"
+   ]
+  }
+ ]
+}
